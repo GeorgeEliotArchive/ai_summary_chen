@@ -1,27 +1,40 @@
-# Website
+# AI Summary for George Eliot Works.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## 1. Initial Project Source
 
-## Installation on local machine
+- This project was initialized by CYux, his GitHub Page: https://github.com/CYux
+- Initial GitHub Repository: https://github.com/CYux/GEreader
+- Built by [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-```
-$ yarn
-$ yarn start
-```
+## 2. Installation on local machine
+
+  ```console
+  yarn
+  yarn start
+  ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+## 3.  Build
 
-```
-$ yarn build
-```
+  - Yarn: 
+
+  ```console
+  yarn build
+  ```
+
+- docusarus:
+
+  ```console
+  docusaurus build
+  ```
+
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## Deployment
+## 4. Deployment
 
-- **Deploy on GitHub Pages(TESTED)**
+- **Deploy on GitHub Pages(`TESTED`)**
 
   - update "package.json":
 
@@ -54,4 +67,4 @@ This command generates static content into the `build` directory and can be serv
     $ GIT_USER=<Your GitHub username> yarn deploy
     ```
 
-  If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+  - If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
