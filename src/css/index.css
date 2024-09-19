@@ -6,7 +6,7 @@ hr {
 
 .sidebar {
   background-color: var(--ifm-color-secondary-contrast-background);
-  width: 19%;
+  width: 25%;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -21,7 +21,7 @@ hr {
 
 .index-container {
   background: var(--ifm-background-colo);
-  padding: 20px 4% 20px 21%;
+  padding: 20px 4% 20px 26%;
 }
 .index-container h2 {
   text-align: center;
@@ -38,6 +38,25 @@ hr {
 }
 .index-container p {
   padding: 5px 16% 0 5%;
+}
+
+
+@media (max-width: 768px) {
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    padding: 80px 2%;
+  }
+
+  .index-container {
+    display: block;
+    width: 100%;
+    padding: 20px 2%;
+    position: relative;
+    margin-top: 20px;
+  }
 }
 
 /*# sourceMappingURL=index.css.map */
