@@ -3,80 +3,80 @@ title: Table Of Contents
 ---
 # Romola
 ## Table Of Contents
-- Prologue.
+- [Prologue.](/ai_summary_chen/romola/PROEM)
 ### BOOK I
-- CHAPTER I. The Shipwrecked Stranger
-- CHAPTER II. Breakfast for Love
-- CHAPTER III. The Barber’s Shop
-- CHAPTER IV. First Impressions
-- CHAPTER V. The Blind Scholar and his Daughter
-- CHAPTER VI. Dawning Hopes
-- CHAPTER VII. A Learned Squabble
-- CHAPTER VIII. A Face in the- Crowd
-- CHAPTER IX. A Man’s Ransom
-- CHAPTER X. Under the Plane-Tree
-- CHAPTER XI. Tito’s Dilemma
-- CHAPTER XII. The Prize is nearly Grasped
-- CHAPTER XIII. The Shadow of Nemesis
-- CHAPTER XIV. The Peasants’ Fair
-- CHAPTER XV. The Dying Message
-- CHAPTER XVI. A Florentine Joke
-- CHAPTER XVII. Under the Loggia
-- CHAPTER XVIII. The Portrait
-- CHAPTER XIX. The Old Man’s Hope
-- CHAPTER XX. The Day of the Betrothal
+- [CHAPTER I. The Shipwrecked Stranger](/ai_summary_chen/romola/BOOK%20I/CHAPTER_I)
+- [CHAPTER II. Breakfast for Love](/ai_summary_chen/romola/BOOK%20I/CHAPTER_II)
+- [CHAPTER III. The Barber’s Shop](/ai_summary_chen/romola/BOOK%20I/CHAPTER_III)
+- [CHAPTER IV. First Impressions](/ai_summary_chen/romola/BOOK%20I/CHAPTER_IV)
+- [CHAPTER V. The Blind Scholar and his Daughter](/ai_summary_chen/romola/BOOK%20I/CHAPTER_V)
+- [CHAPTER VI. Dawning Hopes](/ai_summary_chen/romola/BOOK%20I/CHAPTER_VI)
+- [CHAPTER VII. A Learned Squabble](/ai_summary_chen/romola/BOOK%20I/CHAPTER_VII)
+- [CHAPTER VIII. A Face in the Crowd](/ai_summary_chen/romola/BOOK%20I/CHAPTER_VIII)
+- [CHAPTER IX. A Man’s Ransom](/ai_summary_chen/romola/BOOK%20I/CHAPTER_IX)
+- [CHAPTER X. Under the Plane-Tree](/ai_summary_chen/romola/BOOK%20I/CHAPTER_X)
+- [CHAPTER XI. Tito’s Dilemma](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XI)
+- [CHAPTER XII. The Prize is Nearly Grasped](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XII)
+- [CHAPTER XIII. The Shadow of Nemesis](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XIII)
+- [CHAPTER XIV. The Peasants’ Fair](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XIV)
+- [CHAPTER XV. The Dying Message](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XV)
+- [CHAPTER XVI. A Florentine Joke](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XVI)
+- [CHAPTER XVII. Under the Loggia](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XVII)
+- [CHAPTER XVIII. The Portrait](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XVIII)
+- [CHAPTER XIX. The Old Man’s Hope](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XIX)
+- [CHAPTER XX. The Day of the Betrothal](/ai_summary_chen/romola/BOOK%20I/CHAPTER_XX)
 ### BOOK II
-- CHAPTER XXI. Florence expects a Guest
-- CHAPTER XXII. The Prisoners
-- CHAPTER XXIII. After-Thoughts
-- CHAPTER XXIV. Inside the Duomo
-- CHAPTER XXV. Outside the Duomo
-- CHAPTER XXVI. The Garment of Fear
-- CHAPTER XXVII. The Young Wife
-- CHAPTER XXVIII. The Painted Record
-- CHAPTER XXIX. A Moment of Triumph
-- CHAPTER XXX. The Avenger’s Secret
-- CHAPTER XXXI. Fruit is Seed
-- CHAPTER XXXII. A Revelation
-- CHAPTER XXXIII. Baldassarre makes an Acquaintance
-- CHAPTER XXXIV. No Place for Repentance
-- CHAPTER XXXV. What Florence was thinking of
-- CHAPTER XXXVI. Ariadne discrowns herself
-- CHAPTER XXXVII. The Tabernacle Unlocked
-- CHAPTER XXXVIII. The Black Marks become Magical
-- CHAPTER XXXIX. A Supper in the Rucellai Gardens
-- CHAPTER XL. An Arresting Voice
-- CHAPTER XLI.- Coming Back
+- [CHAPTER XXI. Florence Expects a Guest](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXI)
+- [CHAPTER XXII. The Prisoners](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXII)
+- [CHAPTER XXIII. After-Thoughts](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXIII)
+- [CHAPTER XXIV. Inside the Duomo](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXIV)
+- [CHAPTER XXV. Outside the Duomo](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXV)
+- [CHAPTER XXVI. The Garment of Fear](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXVI)
+- [CHAPTER XXVII. The Young Wife](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXVII)
+- [CHAPTER XXVIII. The Painted Record](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXVIII)
+- [CHAPTER XXIX. A Moment of Triumph](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXIX)
+- [CHAPTER XXX. The Avenger’s Secret](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXX)
+- [CHAPTER XXXI. Fruit is Seed](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXI)
+- [CHAPTER XXXII. A Revelation](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXII)
+- [CHAPTER XXXIII. Baldassarre Makes an Acquaintance](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXIII)
+- [CHAPTER XXXIV. No Place for Repentance](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXIV)
+- [CHAPTER XXXV. What Florence Was Thinking Of](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXV)
+- [CHAPTER XXXVI. Ariadne Discrowns Herself](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXVI)
+- [CHAPTER XXXVII. The Tabernacle Unlocked](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXVII)
+- [CHAPTER XXXVIII. The Black Marks Become Magical](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXVIII)
+- [CHAPTER XXXIX. A Supper in the Rucellai Gardens](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XXXIX)
+- [CHAPTER XL. An Arresting Voice](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XL)
+- [CHAPTER XLI. Coming Back](/ai_summary_chen/romola/BOOK%20II/CHAPTER_XLI)
 ### BOOK III
-- CHAPTER XLII. Romola in her Place
-- CHAPTER XLIII. The Unseen Madonna
-- CHAPTER XLIV. The Visible Madonna
-- CHAPTER XLV. At the Barber’s Shop
-- CHAPTER XLVI. By a Street Lamp
-- CHAPTER XLVII.- Check
-- CHAPTER XLVIII.- Counter-Check
-- CHAPTER XLIX. The Pyramid of Vanities
-- CHAPTER L. Tessa Abroad and at Home
-- CHAPTER LI. Monna Brigida’s- Conversion
-- CHAPTER LII. A Prophetess
-- CHAPTER LIII. On San Miniato
-- CHAPTER LIV. The Evening and the Morning
-- CHAPTER LV. Waiting
-- CHAPTER LVI. The Other Wife
-- CHAPTER LVII. Why Tito was Safe
-- CHAPTER LVIII. A Final Understanding
-- CHAPTER LIX. Pleading
-- CHAPTER LX. The Scaffold
-- CHAPTER LXI. Drifting Away
-- CHAPTER LXII. The Benediction
-- CHAPTER LXIII. Ripening Schemes
-- CHAPTER LXIV. The Prophet in his- Cell
-- CHAPTER LXV. The Trial by Fire
-- CHAPTER LXVI. A Masque of the Furies
-- CHAPTER LXVII. Waiting by the River
-- CHAPTER LXVIII. Romola’s waking
-- CHAPTER LXIX. Homeward
-- CHAPTER LXX. Meeting Again
-- CHAPTER LXXI. The- Confession
-- CHAPTER LXXII. The Last Silence
- Epilogue. 
+- [CHAPTER XLII. Romola in Her Place](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLII)
+- [CHAPTER XLIII. The Unseen Madonna](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLIII)
+- [CHAPTER XLIV. The Visible Madonna](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLIV)
+- [CHAPTER XLV. At the Barber’s Shop](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLV)
+- [CHAPTER XLVI. By a Street Lamp](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLVI)
+- [CHAPTER XLVII. Check](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLVII)
+- [CHAPTER XLVIII. Counter-Check](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLVIII)
+- [CHAPTER XLIX. The Pyramid of Vanities](/ai_summary_chen/romola/BOOK%20III/CHAPTER_XLIX)
+- [CHAPTER L. Tessa Abroad and at Home](/ai_summary_chen/romola/BOOK%20III/CHAPTER_L)
+- [CHAPTER LI. Monna Brigida’s Conversion](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LI)
+- [CHAPTER LII. A Prophetess](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LII)
+- [CHAPTER LIII. On San Miniato](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LIII)
+- [CHAPTER LIV. The Evening and the Morning](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LIV)
+- [CHAPTER LV. Waiting](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LV)
+- [CHAPTER LVI. The Other Wife](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LVI)
+- [CHAPTER LVII. Why Tito Was Safe](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LVII)
+- [CHAPTER LVIII. A Final Understanding](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LVIII)
+- [CHAPTER LIX. Pleading](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LIX)
+- [CHAPTER LX. The Scaffold](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LX)
+- [CHAPTER LXI. Drifting Away](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXI)
+- [CHAPTER LXII. The Benediction](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXII)
+- [CHAPTER LXIII. Ripening Schemes](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXIII)
+- [CHAPTER LXIV. The Prophet in His Cell](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXIV)
+- [CHAPTER LXV. The Trial by Fire](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXV)
+- [CHAPTER LXVI. A Masque of the Furies](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXVI)
+- [CHAPTER LXVII. Waiting by the River](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXVII)
+- [CHAPTER LXVIII. Romola’s Waking](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXVIII)
+- [CHAPTER LXIX. Homeward](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXIX)
+- [CHAPTER LXX. Meeting Again](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXX)
+- [CHAPTER LXXI. The Confession](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXXI)
+- [CHAPTER LXXII. The Last Silence](/ai_summary_chen/romola/BOOK%20III/CHAPTER_LXXII)
+- [Epilogue.](/ai_summary_chen/romola/BOOK%20III/Epilogue)

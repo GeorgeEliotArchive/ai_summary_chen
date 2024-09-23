@@ -3,68 +3,70 @@ title: Table Of Contents
 ---
 # Scenes of Clerical Life
 ## Table Of Contents
-- INTRODUCTION
+- [INTRODUCTION](/ai_summary_chen/Scenes%20of%20Clerical%20Life/INTRODUCTION)
+
 ### The Sad Fortunes of the Rev. Amos Barton
-- Chapter 1
-- Chapter 2
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- CONCLUSION
+- [Chapter 1](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%201)
+- [Chapter 2](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%202)
+- [Chapter 3](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%203)
+- [Chapter 4](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%204)
+- [Chapter 5](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%205)
+- [Chapter 6](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%206)
+- [Chapter 7](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%207)
+- [Chapter 8](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%208)
+- [Chapter 9](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%209)
+- [Chapter 10](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/Chapter%2010)
+- [CONCLUSION](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20I/CONCLUSION)
+
 ### Mr. Gilfil’s Love Story
-- Chapter 1
-- Chapter 2
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- Chapter 11
-- Chapter 12
-- Chapter 13
-- Chapter 14
-- Chapter 15
-- Chapter 16
-- Chapter 17
-- Chapter 18
-- Chapter 19
-- Chapter 20
-- Chapter 21
-- EPILOGUE
+- [Chapter 1](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%201)
+- [Chapter 2](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%202)
+- [Chapter 3](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%203)
+- [Chapter 4](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%204)
+- [Chapter 5](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%205)
+- [Chapter 6](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%206)
+- [Chapter 7](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%207)
+- [Chapter 8](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%208)
+- [Chapter 9](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%209)
+- [Chapter 10](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2010)
+- [Chapter 11](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2011)
+- [Chapter 12](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2012)
+- [Chapter 13](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2013)
+- [Chapter 14](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2014)
+- [Chapter 15](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2015)
+- [Chapter 16](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2016)
+- [Chapter 17](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2017)
+- [Chapter 18](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2018)
+- [Chapter 19](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2019)
+- [Chapter 20](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2020)
+- [Chapter 21](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20II/Chapter%2021)
+
 ### Janet’s Repentance
-- Chapter 1
-- Chapter 2
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- Chapter 11
-- Chapter 12
-- Chapter 13
-- Chapter 14
-- Chapter 15
-- Chapter 16
-- Chapter 17
-- Chapter 18
-- Chapter 19
-- Chapter 20
-- Chapter 21
-- Chapter 22
-- Chapter 23
-- Chapter 24
-- Chapter 25
-- Chapter 26
-- Chapter 27
-- Chapter 28
+- [Chapter 1](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%201)
+- [Chapter 2](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%202)
+- [Chapter 3](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%203)
+- [Chapter 4](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%204)
+- [Chapter 5](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%205)
+- [Chapter 6](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%206)
+- [Chapter 7](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%207)
+- [Chapter 8](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%208)
+- [Chapter 9](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%209)
+- [Chapter 10](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2010)
+- [Chapter 11](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2011)
+- [Chapter 12](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2012)
+- [Chapter 13](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2013)
+- [Chapter 14](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2014)
+- [Chapter 15](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2015)
+- [Chapter 16](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2016)
+- [Chapter 17](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2017)
+- [Chapter 18](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2018)
+- [Chapter 19](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2019)
+- [Chapter 20](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2020)
+- [Chapter 21](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2021)
+- [Chapter 22](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2022)
+- [Chapter 23](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2023)
+- [Chapter 24](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2024)
+- [Chapter 25](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2025)
+- [Chapter 26](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2026)
+- [Chapter 27](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2027)
+- [Chapter 28](/ai_summary_chen/Scenes%20of%20Clerical%20Life/BOOK%20III/Chapter%2028)
